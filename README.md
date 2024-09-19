@@ -1,5 +1,5 @@
 
-⛱️ <h1> Udemig Tour Projesi </h1>
+ <h1> Udemig Tour Projesi </h1>
 
 ✈️ HTML-CSS kullanıldı
 
