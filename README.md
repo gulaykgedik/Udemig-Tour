@@ -5,5 +5,6 @@
 
 ⚓ Responsive Tasarım
 
-https://github.com/user-attachments/assets/c085865c-8d33-4535-b1ae-2eebc5109e30
 
+
+![UdemigTour](https://github.com/user-attachments/assets/7fdf4fc0-6dc3-4b96-99d9-78dde74fdce2)
